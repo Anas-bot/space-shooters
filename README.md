@@ -1,2 +1,2 @@
 # space-shooters
-This a game of space ships in the space developed using pygame
+This a game of space shooters developed using pygame
